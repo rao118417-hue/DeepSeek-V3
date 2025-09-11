@@ -1,0 +1,72 @@
+Real-time pose detection
+
+AI-based mistake correction
+
+Voice feedback / Motivational AI
+
+Multi-language support
+
+Badges & Levels / Gamification
+
+Community + Chat
+
+یہ سب شامل ہیں، اس لیے آپ کو ایسے tools اور platforms استعمال کرنے ہوں گے جو AI + Mobile App Development + Real-time tracking سپورٹ کریں۔
+
+🔹 Recommended Platforms / Websites
+
+1️⃣ Flutter (Cross-platform Mobile App)
+
+Website: https://flutter.dev
+
+Android اور iOS دونوں پر چلتا ہے
+
+Firebase اور AI tools کے ساتھ آسان integration
+
+UI/UX customize کرنا آسان
+
+2️⃣ React Native (Cross-platform Mobile App)
+
+Website: https://reactnative.dev
+
+JavaScript / TypeScript based
+
+Firebase + TensorFlow Lite + Mediapipe integration آسان
+
+3️⃣ Firebase (Backend & Realtime Database)
+
+Website: https://firebase.google.com
+
+Features: Authentication, Firestore, Realtime DB, Storage, Cloud Messaging
+
+Chat, Badges, Levels, Push Notifications کے لیے بہترین
+
+4️⃣ TensorFlow Lite & Mediapipe (AI Models)
+
+TensorFlow Lite: https://www.tensorflow.org/lite
+
+Mediapipe: https://mediapipe.dev
+
+Real-time pose detection, body scan, mistake detection
+
+5️⃣ HuggingFace NLP & Google TTS / Translate
+
+HuggingFace NLP: https://huggingface.co → AI motivational messages
+
+Google TTS: https://cloud.google.com/text-to-speech
+
+Google Translate API: https://cloud.google.com/translate → Multi-language support
+
+🔹 Suggested Development Flow
+
+Flutter یا React Native میں App UI بنائیں
+
+Firebase سے Authentication, Database, Storage اور Chat implement کریں
+
+Mediapipe / TensorFlow Lite سے Real-time pose detection اور AI correction implement کریں
+
+HuggingFace + Google TTS سے motivational AI voice feedback بنائیں
+
+Google Translate API سے multi-language support add کریں
+
+Gamification (Badges/Levels) + Progress Tracker + Community features implement کریں
+
